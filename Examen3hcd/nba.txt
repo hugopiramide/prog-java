@@ -1,0 +1,66 @@
+Fecha listado: 4/6/2025 13:21:10
+Cantidad jugadores: 7
+::::::::::::::::
+::::::::::::::::
+id => 14
+first_name => "Ike"
+last_name => "Anigbogu"
+position => "C"
+weight_pounds => 200
+conference => "East"
+division => "Central"
+team_name => "Indiana Pacers"
+::::::::::::::::
+id => 25
+first_name => "Ron"
+last_name => "Baker"
+position => "G"
+weight_pounds => 180
+conference => "East"
+division => "Atlantic"
+team_name => "New York Knicks"
+::::::::::::::::
+id => 47
+first_name => "Jabari"
+last_name => "Bird"
+position => "G"
+weight_pounds => 173
+conference => "East"
+division => "Atlantic"
+team_name => "Boston Celtics"
+::::::::::::::::
+id => 67
+first_name => "MarShon"
+last_name => "Brooks"
+position => "G"
+weight_pounds => 170
+conference => "West"
+division => "Southwest"
+team_name => "Memphis Grizzlies"
+::::::::::::::::
+id => 71
+first_name => "Lorenzo"
+last_name => "Brown"
+position => "G"
+weight_pounds => 180
+conference => "East"
+division => "Atlantic"
+team_name => "Toronto Raptors"
+::::::::::::::::
+id => 90
+first_name => "Omri"
+last_name => "Casspi"
+position => "F"
+weight_pounds => 210
+conference => "West"
+division => "Southwest"
+team_name => "Memphis Grizzlies"
+::::::::::::::::
+id => 119
+first_name => "Tyler"
+last_name => "Davis"
+position => "C"
+weight_pounds => 222
+conference => "West"
+division => "Northwest"
+team_name => "Oklahoma City Thunder"
